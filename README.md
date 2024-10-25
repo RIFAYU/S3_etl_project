@@ -1,6 +1,9 @@
 
 ![etl_job drawio](https://github.com/user-attachments/assets/4d89d47f-33cf-4cf3-b6db-a7d5ab4030cf)
 
+# Output of this project
+![s1](https://github.com/user-attachments/assets/69443a1b-9895-4752-aa99-de56b9b20629)
+
 From this project, we clearly understood how ETL works :)
 
 # ETL Pipeline for Sales Data
